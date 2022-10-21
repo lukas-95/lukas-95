@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukas-95
-- 👀 I’m interested in Geek (as usual here), Business, Psichology, Finance and all those together.
-- 🌱 I’m currently learning Java (programming in general)
+- 👀 I’m interested in Geek (as usual here), Tech, Business, Psichology, Finance and all those together.
+- 🌱 I’m currently learning Java, JavaScript, HTML, CSS.
 - 💞️ I’m looking to collaborate on Something that is needed into this community
 - 📫 How to reach me On discord as Lukas95#6536
 
